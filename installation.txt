@@ -1,0 +1,3 @@
+### Download ###
+First select this bar (https://media.discordapp.net/attachments/969606697511448629/969612606962819082/unknown.png) and type in "cmd"
+after this press enter now your cmd opens and you got to type in "py -3 -m pip install -r requirements.txt"
